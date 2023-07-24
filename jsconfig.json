@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "bcrypt cookie jsonwebtoken mongoose react react-dom reat-hot-toast sass/*": ["./*"]
+    }
+  }
+}
